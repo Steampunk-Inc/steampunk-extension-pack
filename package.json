@@ -2,6 +2,7 @@
     "name": "steampunk-extension-pack",
     "displayName": "Steampunk Extension Pack",
     "description": "Extensions for Steampunk Salesforce Development",
+    "icon": "images/Steampunk_Logo.jpg",
     "publisher": "Steampunk",
     "version": "0.0.1",
     "engines": {
