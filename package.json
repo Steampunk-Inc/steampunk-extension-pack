@@ -1,0 +1,28 @@
+{
+    "name": "steampunk-extension-pack",
+    "displayName": "Steampunk Extension Pack",
+    "description": "Extensions for Steampunk Salesforce Development",
+    "publisher": "Steampunk",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens",
+        "salesforce.salesforcedx-vscode",
+        "ms-vscode.azurecli",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "salesforce.codey-midnight",
+        "dbaeumer.vscode-eslint",
+        "MS-vsliveshare.vsliveshare-pack",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "vscode-icons-team.vscode-icons",
+        "redhat.vscode-xml"
+    ]
+}
