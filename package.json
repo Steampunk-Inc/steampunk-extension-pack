@@ -4,7 +4,7 @@
     "description": "Extensions for Steampunk Salesforce Development",
     "icon": "images/Steampunk_Logo.jpg",
     "publisher": "Steampunk",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -24,7 +24,10 @@
         "esbenp.prettier-vscode",
         "ms-vscode-remote.vscode-remote-extensionpack",
         "vscode-icons-team.vscode-icons",
-        "redhat.vscode-xml"
+        "redhat.vscode-xml",
+        "modicatech.apex-code-coverage-visualizer",
+        "rokoroku.vscode-theme-darcula",
+        "editorconfig.editorconfig"
     ],
     "repository": {
         "type": "git",
