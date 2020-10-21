@@ -4,7 +4,7 @@
     "description": "Extensions for Steampunk Salesforce Development",
     "icon": "images/Steampunk_Logo.jpg",
     "publisher": "Steampunk",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -27,7 +27,10 @@
         "redhat.vscode-xml",
         "modicatech.apex-code-coverage-visualizer",
         "rokoroku.vscode-theme-darcula",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "chuckjonas.apex-pmd",
+        "mhutchie.git-graph",
+        "Gruntfuggly.todo-tree"
     ],
     "repository": {
         "type": "git",
