@@ -4,7 +4,7 @@
     "description": "Extensions for Steampunk Salesforce Development",
     "icon": "images/Steampunk_Logo.jpg",
     "publisher": "Steampunk",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -14,15 +14,12 @@
     "extensionPack": [
         "eamodio.gitlens",
         "salesforce.salesforcedx-vscode",
-        "ms-vscode.azurecli",
         "CoenraadS.bracket-pair-colorizer-2",
-        "salesforce.codey-midnight",
         "dbaeumer.vscode-eslint",
         "MS-vsliveshare.vsliveshare-pack",
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
         "esbenp.prettier-vscode",
-        "ms-vscode-remote.vscode-remote-extensionpack",
         "vscode-icons-team.vscode-icons",
         "redhat.vscode-xml",
         "modicatech.apex-code-coverage-visualizer",
@@ -30,7 +27,9 @@
         "editorconfig.editorconfig",
         "chuckjonas.apex-pmd",
         "mhutchie.git-graph",
-        "Gruntfuggly.todo-tree"
+        "Gruntfuggly.todo-tree",
+        "VignaeshRamA.sfdx-package-xml-generator",
+        "financialforce.lana"
     ],
     "repository": {
         "type": "git",
