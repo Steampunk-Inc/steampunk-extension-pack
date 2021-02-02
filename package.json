@@ -4,7 +4,7 @@
     "description": "Extensions for Steampunk Salesforce Development",
     "icon": "images/Steampunk_Logo.jpg",
     "publisher": "Steampunk",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -29,7 +29,10 @@
         "mhutchie.git-graph",
         "Gruntfuggly.todo-tree",
         "VignaeshRamA.sfdx-package-xml-generator",
-        "financialforce.lana"
+        "financialforce.lana",
+        "xyz.local-history",
+        "GitHub.vscode-pull-request-github",
+        "Tyriar.sort-lines"
     ],
     "repository": {
         "type": "git",
